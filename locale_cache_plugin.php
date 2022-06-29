@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Locale Cache
- * @version 1.7.2
+ * @version 1.0.0
  */
 /*
 Plugin Name: Locale cache
